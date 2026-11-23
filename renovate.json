@@ -1,5 +1,5 @@
 {
-  registryAliases: {
-    '${CONTAINER_REGISTRY}/quayio': 'quay.io'
+  "registryAliases": {
+    "${CONTAINER_REGISTRY}/quayio": "quay.io"
   }
 }
