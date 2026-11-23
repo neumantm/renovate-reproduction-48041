@@ -1,0 +1,5 @@
+{
+  registryAliases: {
+    '${CONTAINER_REGISTRY}/quayio': 'quay.io'
+  }
+}
