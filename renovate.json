@@ -6,6 +6,6 @@
     "managerFilePatterns": ["/\\.yaml$/"]
   },
   "registryAliases": {
-    "${CONTAINER_REGISTRY}/quayio": "quay.io"
+    "${CONTAINER_REGISTRY_URL}/dockerhub": "registry-1.docker.io"
   }
 }
