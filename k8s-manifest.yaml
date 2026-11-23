@@ -7,6 +7,6 @@ metadata:
 spec:
   containers:
     - name: node
-      image: ${CONTAINER_REGISTRY_URL}/dockerhub/library/nginx:1.31.8-alpine
+      image: ${CONTAINER_REGISTRY_URL}/dockerhub/library/nginx:1.31.9-alpine
       ports:
         - containerPort: 80
