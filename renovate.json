@@ -2,6 +2,9 @@
   "dependencyDashboard": {
     "enabled": true
   },
+  "kubernetes": {
+    "managerFilePatterns": ["/\\.yaml$/"]
+  },
   "registryAliases": {
     "${CONTAINER_REGISTRY}/quayio": "quay.io"
   }
